@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Balo",
+    "image": "https://mihanoi.vn/wp-content/uploads/2021/08/1-29-510x510.png",
+    "description": "Chất liệu túi không thấm nước và dễ làm vệ sinh làm sạch. Dễ dàng tháo gấp gọn lại khi cần.",
+    "category": [
+      {
+        "id": 1,
+        "name": "Balo vải cao cấp",
+        "code": "gd51",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2022/08/1b2ee7557aaebff0e6bf-300x300.jpg",
+        "quantity": 10,
+        "price": 480000
+      },
+      {
+        "id": 2,
+        "name": "Balo mèo xám cute",
+        "code": "kj23",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2022/08/fbbb2d60b19b74c52d8a-300x300.jpg",
+        "quantity": 10,
+        "price": 350000
+      },
+      {
+        "id": 3,
+        "name": "Balo lưới nhựa vuông",
+        "code": "kc34",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2022/08/ce35bcc7203ce562bc2d-300x300.jpg",
+        "quantity": 10,
+        "price": 400000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chuồng",
+    "image": "https://www.petmart.vn/wp-content/uploads/2016/04/chuong-meo-2-tang-nan-sat-san-co-dinh-iris-pcsc-902c.jpg",
+    "description": "Chuồng mèo với thiết kế sang trọng có kết cấu chắc chắn đảm bảo an toàn cho thú cưng. Với lớp sơn sắt trắng bóng cao cấp chống gỉ giúp tăng độ bền và dễ dàng khi vệ sinh",
+    "category": [
+      {
+        "id": 1,
+        "name": "Lồng tĩnh điện",
+        "code": "kv23",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2021/03/kiotviet_5ed3017996cf4ab3b83ef383f14461d6-300x300.jpeg",
+        "quantity": 10,
+        "price": 500000
+      },
+      {
+        "id": 2,
+        "name": "Lồng hàng không PD-48",
+        "code": "lv23",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2020/07/kiotviet_b3205dc5eee5fca9f5fa852a530a86ef-300x300.png",
+        "quantity": 10,
+        "price": 320000
+      },
+      {
+        "id": 3,
+        "name": "Nhà cào gỗ",
+        "code": "xt23",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2020/07/kiotviet_802da411fd36a49a1fa97478e69dec71-300x300.jpeg",
+        "quantity": 10,
+        "price": 800000
+      }
+    ]
+  }
+]

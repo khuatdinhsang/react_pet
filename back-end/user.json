@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "firstName": "Dinh1",
+    "lastName": "Sang1",
+    "age": 20,
+    "gender": "male",
+    "address": "Cam yen, Thach That, Ha Noi",
+    "username": "admin",
+    "password": "123"
+  },
+  {
+    "id": "a01235d1-658f-42eb-8cf1-b3e56430551b",
+    "firstName": "Minh",
+    "lastName": "Tu",
+    "age": 10,
+    "gender": "female",
+    "address": "Cam yen, Thach That, Ha Noi",
+    "username": "tu",
+    "password": "1"
+  }
+]

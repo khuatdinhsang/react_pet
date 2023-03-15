@@ -1,0 +1,247 @@
+[
+  {
+    "id": 1,
+    "name": "Mèo Anh",
+    "image": "http://cdn.tgdd.vn/Files/2021/04/22/1345443/dac-diem-nhan-dien-cach-nuoi-meo-anh-long-ngan-202104221529108326.jpg",
+    "description": "Mèo Anh lông ngắn (mèo aln) rất được ưa chuộng ở Việt Nam bởi thân hình mập mạp, đáng yêu, tính lười và không kén ăn",
+    "category": [
+      {
+        "id": 1,
+        "name": "Mèo Anh lông ngắn cưng cưng",
+        "code": "MX27",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2022/09/203c63a8733bb765ee2a-300x300.jpg",
+        "quantity": 1,
+        "color": "white",
+        "dob": "19/4/2021",
+        "health": "good",
+        "gender": 0,
+        "price": 5000000
+      },
+      {
+        "id": 2,
+        "name": "Mèo Tabby đáng yêu",
+        "code": "LW73",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2022/09/68e263807bb8bfe6e6a9-300x300.jpg",
+        "quantity": 1,
+        "color": "gray",
+        "dob": "10/6/2021",
+        "health": "good",
+        "gender": 1,
+        "price": 7000000
+      },
+      {
+        "id": 3,
+        "name": "Em mèo Bililac đực",
+        "code": "BB42",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2022/09/769beffce4ea20b479fb-300x300.jpg",
+        "quantity": 1,
+        "color": "brown",
+        "dob": "10/10/2021",
+        "health": "normal",
+        "gender": 1,
+        "price": 100000000
+      },
+      {
+        "id": 4,
+        "name": "Mèo Hymalaya cái",
+        "code": "OT23",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2022/09/0f7ff4d0c5c6019858d7-300x300.jpg",
+        "quantity": 1,
+        "color": "white",
+        "dob": "01/12/2021",
+        "health": "good",
+        "gender": 0,
+        "price": 7000000
+      },
+      {
+        "id": 5,
+        "name": "Mèo Anh lông ngắn",
+        "code": "UT31",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2022/08/dae19cbff56e3030697f-300x300.jpg",
+        "quantity": 1,
+        "color": "black",
+        "dob": "19/10/2020",
+        "health": "good",
+        "gender": 0,
+        "price": 14000000
+      },
+      {
+        "id": 6,
+        "name": "Mèo Bicolor cute",
+        "code": "MB16",
+        "status": 0,
+        "image": "https://matpetfamily.com/wp-content/uploads/2022/07/0c3f2e3eceac0df254bd-300x300.jpg",
+        "quantity": 0,
+        "color": "white",
+        "dob": "10/3/2021",
+        "health": "good",
+        "gender": 1,
+        "price": 15000000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Mèo chân ngắn",
+    "image": "https://vuipet.com/wp-content/uploads/2021/07/meo-munchkin-4.jpg",
+    "description": "Mèo chân ngắn được biết đến là một giống mèo có 4 chân ngắn ngủn cực kì đáng yêu",
+    "category": [
+      {
+        "id": 1,
+        "name": "Em mèo trắng cực phẩm",
+        "code": "TU41",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2022/09/f1cb3cbc372ef370aa3f-300x300.jpg",
+        "quantity": 2,
+        "color": "white",
+        "dob": "1/1/2021",
+        "health": "good",
+        "gender": 0,
+        "price": 35000000
+      },
+      {
+        "id": 2,
+        "name": "Mèo golden chân ngắn",
+        "code": "IK12",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2022/08/10016876d8a41dfa44b5-300x300.jpg",
+        "quantity": 2,
+        "color": "yellow",
+        "dob": "1/7/2021",
+        "health": "good",
+        "gender": 1,
+        "price": 15000000
+      },
+      {
+        "id": 3,
+        "name": "Mèo chân lùn đáng yêu",
+        "code": "JN23",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2022/08/d4ca892d12b5d0eb89a4-360x360.jpg",
+        "quantity": 3,
+        "color": "grey",
+        "dob": "1/9/2021",
+        "health": "good",
+        "gender": 1,
+        "price": 20000000
+      },
+      {
+        "id": 4,
+        "name": "Em mèo chân trắng tai cụp",
+        "code": "HZ15",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2022/08/d4ca892d12b5d0eb89a4-360x360.jpg",
+        "quantity": 3,
+        "color": "white",
+        "dob": "3/3/2021",
+        "health": "normal",
+        "gender": 0,
+        "price": 1000000
+      },
+      {
+        "id": 5,
+        "name": "Mèo chân ngắn, tai cụp",
+        "code": "LX",
+        "status": 0,
+        "image": "https://matpetfamily.com/wp-content/uploads/2020/12/129815790_1845524822262260_1393144393556835176_o-300x300.jpg",
+        "quantity": 0,
+        "color": "grey",
+        "dob": "12/5/2021",
+        "health": "good",
+        "gender": 1,
+        "price": 14000000
+      },
+      {
+        "id": 6,
+        "name": "Em mèo chân trắng, tai cụt",
+        "code": "LB42",
+        "status": 0,
+        "image": "https://matpetfamily.com/wp-content/uploads/2020/02/c1-300x300.jpg",
+        "quantity": 0,
+        "color": "black",
+        "dob": "10/9/2021",
+        "health": "good",
+        "gender": 0,
+        "price": 30000000
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Mèo tai cụp",
+    "image": "https://wcfvietnam.vn/image/catalog/83841996_634386913982319_8107495278010957824_n-1.jpg",
+    "description": "Mèo tai cụp là loài mèo được lai tạo thông qua đột biến gen từ mèo nhà. Chúng có một đôi tai cụp rất đáng yêu và được ghi nhận là giống mèo cảnh phổ biến nhất",
+    "category": [
+      {
+        "id": 1,
+        "name": "Em mèo tai cụp",
+        "code": "LN41",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2020/06/104561903_1675245245956886_5106103639796273502_o-300x300.jpg",
+        "quantity": 2,
+        "color": "grey",
+        "dob": "10/10/2021",
+        "health": "good",
+        "gender": 0,
+        "price": 5000000
+      },
+      {
+        "id": 2,
+        "name": "Em mèo tai cụp xinh xinh",
+        "code": "IK41",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2020/02/b1-300x300.jpg",
+        "quantity": 2,
+        "color": "grey",
+        "dob": "04/11/2021",
+        "health": "good",
+        "gender": 1,
+        "price": 6000000
+      },
+      {
+        "id": 3,
+        "name": "Mèo scottish silver",
+        "code": "GQ41",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2020/02/78483435_1467114463436633_1463736498133139456_n-300x300.jpg",
+        "quantity": 2,
+        "color": "white",
+        "dob": "9/9/2021",
+        "health": "normal",
+        "gender": 0,
+        "price": 15000000
+      },
+      {
+        "id": 4,
+        "name": "Công chúa mèo tai cụp",
+        "code": "LN41",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2020/02/a2-300x300.jpg",
+        "quantity": 2,
+        "color": "grey",
+        "dob": "1/10/2021",
+        "health": "normal",
+        "gender": 0,
+        "price": 14000000
+      },
+      {
+        "id": 5,
+        "name": "Mèo golden chân ngắn, tai cụp",
+        "code": "GB21",
+        "status": 0,
+        "image": "https://matpetfamily.com/wp-content/uploads/2022/08/10016876d8a41dfa44b5-300x300.jpg",
+        "quantity": 0,
+        "color": "yellow",
+        "dob": "10/2/2021",
+        "health": "good",
+        "gender": 1,
+        "price": 15000000
+      }
+    ]
+  }
+]

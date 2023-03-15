@@ -1,0 +1,320 @@
+[
+  {
+    "id": 1,
+    "name": "Alaska",
+    "image": "https://cdn.tgdd.vn/Files/2021/04/13/1343072/nuoi-cho-alaska-co-kho-khong-tu-a-z-cach-nuoi-cho-alaska-hieu-qua-202104131446268011.jpg",
+    "description": "Chó Alaska hay còn gọi là chó Alaska Malamute là tổ tiên giống chó sói tuyết hoang",
+    "category": [
+      {
+        "id": 1,
+        "name": "Alaska nâu đỏ béo ú",
+        "code": "DS23",
+        "status": 1,
+        "image": "https://sieupet.com/sites/default/files/alaka2_0.jpg",
+        "quantity": 3,
+        "color": "brown",
+        "dob": "2/3/2021",
+        "health": "good",
+        "gender": 1,
+        "price": 5000000
+      },
+      {
+        "id": 2,
+        "name": "Alaska hồng phấn siêu cute",
+        "code": "ZF23",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2021/01/138689364_1878620795619329_1638558454369964699_o-300x300.jpg",
+        "quantity": 1,
+        "color": "pink",
+        "dob": "24/3/2020",
+        "health": "good",
+        "gender": 1,
+        "price": 7000000
+      },
+      {
+        "id": 3,
+        "name": "Alaska xiu cưng",
+        "code": "PB23",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2020/04/E29A0EFD-8825-4EE8-B7E1-61F82F47BDCE-300x300.jpeg",
+        "quantity": 1,
+        "color": "yellow",
+        "dob": "10/6/2021",
+        "health": "normal",
+        "gender": 0,
+        "price": 4500000
+      },
+      {
+        "id": 4,
+        "name": "Alaska nâu đỏ béo ú",
+        "code": "GT23",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2022/01/88727238-CADD-4E2D-B275-52E1F748F7E3-300x300.jpeg",
+        "quantity": 1,
+        "color": "red",
+        "dob": "2/9/2020",
+        "health": "good",
+        "gender": 1,
+        "price": 10000000
+      },
+      {
+        "id": 5,
+        "name": "Alaska xám mập ú ù",
+        "code": "LO32",
+        "status": 0,
+        "image": "https://matpetfamily.com/wp-content/uploads/2021/12/266791096_467134671708647_943927753662756467_n-300x300.jpg",
+        "quantity": 0,
+        "color": "gray",
+        "dob": "22/3/2021",
+        "health": "good",
+        "gender": 0,
+        "price": 15000000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Corgi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Welchcorgipembroke.JPG/1200px-Welchcorgipembroke.JPG",
+    "description": "Giống chó Corgi (hay còn được biết đến với tên gọi khác là Corgi Welsh), là giống chó cảnh dễ thương nhất Thế Giới",
+    "category": [
+      {
+        "id": 1,
+        "name": "Corgi ú nú siêu xinh",
+        "code": "PG34",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2019/12/75462468_1446520615496018_4012590135639015424_n201-370x370.jpg",
+        "quantity": 3,
+        "color": "brown",
+        "dob": "2/10/2022",
+        "health": "good",
+        "gender": 1,
+        "price": 1000000
+      },
+      {
+        "id": 2,
+        "name": "Corgi chân ngắn vàng",
+        "code": "HX32",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2021/12/094EEFE5-32AB-4907-9C6D-A3C5AA7FC495-300x300.jpeg",
+        "quantity": 2,
+        "color": "yellow",
+        "dob": "12/2/2022",
+        "health": "good",
+        "gender": 1,
+        "price": 2500000
+      },
+      {
+        "id": 3,
+        "name": "Corgi lông dài cực cute",
+        "code": "LK32",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2020/06/101906881_1660641044083973_5743404183407829263_o-300x300.jpg",
+        "quantity": 1,
+        "color": "whit",
+        "dob": "2/6/2022",
+        "health": "not good",
+        "gender": 0,
+        "price": 3000000
+      },
+      {
+        "id": 4,
+        "name": "Corgi chân lùn",
+        "code": "KJ23",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2022/08/f7569eb750f695a8cce7-300x300.jpg",
+        "quantity": 3,
+        "color": "brown",
+        "dob": "12/7/2022",
+        "health": "good",
+        "gender": 0,
+        "price": 3500000
+      },
+      {
+        "id": 5,
+        "name": "Corgi lông dài mông to",
+        "code": "LX21",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2020/02/27.2-300x300.jpg",
+        "quantity": 2,
+        "color": "yellow",
+        "dob": "4/2/2022",
+        "health": "normal",
+        "gender": 1,
+        "price": 1800000
+      },
+      {
+        "id": 6,
+        "name": "2 anh em Corgi béo ú ",
+        "code": "PO23",
+        "status": 0,
+        "image": "https://matpetfamily.com/wp-content/uploads/2022/08/8f2fdaaf7155b40bed44-300x300.jpg",
+        "quantity": 0,
+        "color": "yellow",
+        "dob": "11/4/2022",
+        "health": "good",
+        "gender": 0,
+        "price": 5000000
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Husky",
+    "image": "https://media-be.chewy.com/wp-content/uploads/2021/06/01091720/Siberian-Husky_FeaturedImage-1024x615.jpg",
+    "description": "Chó Husky là người bạn đáng tin cậy đối với con người. Giống chó Husky này còn có thể giúp đỡ bạn nhiều công việc, rất tình cảm và trung thành.",
+    "category": [
+      {
+        "id": 1,
+        "name": "Husky đen",
+        "code": "KV23",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2021/02/140575124_1882521691895906_2911909454894282558_o-360x360.jpg",
+        "quantity": 2,
+        "color": "black",
+        "dob": "2/1/2021",
+        "health": "good",
+        "gender": 1,
+        "price": 21000000
+      },
+      {
+        "id": 2,
+        "name": "Husky đại ngáo ú nu",
+        "code": "KV23",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2019/12/72835561_1437995923015154_7605397220103290880_n-370x370.jpg",
+        "quantity": 1,
+        "color": "brown",
+        "dob": "2/10/2021",
+        "health": "good",
+        "gender": 1,
+        "price": 17000000
+      },
+      {
+        "id": 3,
+        "name": "Husky ngáo ngơ",
+        "code": "NM32",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2020/03/5.3c-300x300.jpg",
+        "quantity": 2,
+        "color": "white",
+        "dob": "12/6/2021",
+        "health": "normal",
+        "gender": 0,
+        "price": 14000000
+      },
+      {
+        "id": 4,
+        "name": "Đại ngáo",
+        "code": "KV23",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2021/11/80D68228-C143-46FC-9EDE-0C579B0044CE-300x300.jpeg",
+        "quantity": 1,
+        "color": "grey",
+        "dob": "2/8/2020",
+        "health": "not good",
+        "gender": 1,
+        "price": 11000000
+      },
+      {
+        "id": 5,
+        "name": "Husky nâu đỏ",
+        "code": "HN23",
+        "status": 0,
+        "image": "https://matpetfamily.com/wp-content/uploads/2019/12/husky_nau_do_1_821x624-300x300.jpg",
+        "quantity": 0,
+        "color": "red",
+        "dob": "12/3/2021",
+        "health": "good",
+        "gender": 1,
+        "price": 22000000
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Poodle",
+    "image": "https://miluxinh.com/wp-content/uploads/2020/09/cho-poodle-co-may-loai.jpg",
+    "description": "Poodle là một trong những giống chó được yêu thích và nuôi nhiều tại Việt Nam hiện nay",
+    "category": [
+      {
+        "id": 1,
+        "name": "Bé Poodle Tiny trắng",
+        "code": "CD97",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2019/12/be_poodle_tiny_trang_2_800x610-360x360.jpg",
+        "quantity": 1,
+        "color": "white",
+        "dob": "20/10/2021",
+        "health": "good",
+        "gender": 1,
+        "price": 4000000
+      },
+      {
+        "id": 2,
+        "name": "Bé Poodle vàng mơ xinh tươi",
+        "code": "TR23",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2019/12/53325241_1253249824823099_4624950999151280128_n_720x960-360x360.jpg",
+        "quantity": 1,
+        "color": "yellow",
+        "dob": "7/4/2021",
+        "health": "good",
+        "gender": 0,
+        "price": 3000000
+      },
+      {
+        "id": 3,
+        "name": "Poodle trắng lông xù",
+        "code": "TY32",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2020/09/119211666_1772104086271001_2043173142450946394_o-360x360.jpg",
+        "quantity": 2,
+        "color": "white",
+        "dob": "20/10/2021",
+        "health": "normal",
+        "gender": 1,
+        "price": 6000000
+      },
+      {
+        "id": 4,
+        "name": "2 anh poodle da nâu cực yêu",
+        "code": "MN53",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2019/12/sfdasg_862x960-360x360.jpg",
+        "quantity": 1,
+        "color": "brown",
+        "dob": "20/6/2021",
+        "health": "good",
+        "gender": 1,
+        "price": 10000000
+      },
+      {
+        "id": 5,
+        "name": "Poodle trắng kém yêu yêu",
+        "code": "GA61",
+        "status": 0,
+        "image": "https://matpetfamily.com/wp-content/uploads/2022/10/f899305b892e4f70163f-300x300.jpg",
+        "quantity": 0,
+        "color": "white",
+        "dob": "20/10/2021",
+        "health": "normal",
+        "gender": 0,
+        "price": 4500000
+      },
+      {
+        "id": 6,
+        "name": "Bé Poodle Socola",
+        "code": "DR23",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2019/12/67572102_1353627354785345_3668533529760759808_n-360x360.jpg",
+        "quantity": 1,
+        "color": "brown",
+        "dob": "2/1/2021",
+        "health": "not good",
+        "gender": 0,
+        "price": 2000000
+      }
+    ]
+  }
+]

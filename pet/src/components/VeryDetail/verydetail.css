@@ -1,0 +1,33 @@
+.detail{
+    display: flex;
+    margin-top: 100px;
+
+}
+.right{
+    margin-right:50px
+}
+.left{
+    color:rgb(141, 102, 102)
+}
+.card_btn{
+    color:red;
+
+}
+.btn_detail{
+    display: flex;
+    margin-top:20px ;
+}
+.card_btn:hover{
+    background-color: rgb(171, 125, 125);
+}
+.title_related{
+    padding: 10px;
+    margin-top: 50px;
+    border: 1px solid #ccc;
+    display: inline-block;
+    background-color: rgb(184, 78, 78);
+    color:white
+}
+.verydetailmain{
+    margin-top:40px
+}

@@ -1,0 +1,784 @@
+{
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Alaska",
+      "image": "https://cdn.tgdd.vn/Files/2021/04/13/1343072/nuoi-cho-alaska-co-kho-khong-tu-a-z-cach-nuoi-cho-alaska-hieu-qua-202104131446268011.jpg",
+      "description": "Chó Alaska hay còn gọi là chó Alaska Malamute là tổ tiên giống chó sói tuyết hoang",
+      "category": [
+        {
+          "id": 1,
+          "name": "Alaska nâu đỏ béo ú",
+          "code": "DS23",
+          "status": 1,
+          "image": "https://sieupet.com/sites/default/files/alaka2_0.jpg",
+          "quantity": 3,
+          "color": "brown",
+          "dob": "2/3/2021",
+          "health": "good",
+          "gender": 1,
+          "price": 5000000
+        },
+        {
+          "id": 2,
+          "name": "Alaska hồng phấn siêu cute",
+          "code": "ZF23",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2021/01/138689364_1878620795619329_1638558454369964699_o-300x300.jpg",
+          "quantity": 1,
+          "color": "pink",
+          "dob": "24/3/2020",
+          "health": "good",
+          "gender": 1,
+          "price": 7000000
+        },
+        {
+          "id": 3,
+          "name": "Alaska xiu cưng",
+          "code": "PB23",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2020/04/E29A0EFD-8825-4EE8-B7E1-61F82F47BDCE-300x300.jpeg",
+          "quantity": 1,
+          "color": "yellow",
+          "dob": "10/6/2021",
+          "health": "normal",
+          "gender": 0,
+          "price": 4500000
+        },
+        {
+          "id": 4,
+          "name": "Alaska nâu đỏ béo ú",
+          "code": "GT23",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2022/01/88727238-CADD-4E2D-B275-52E1F748F7E3-300x300.jpeg",
+          "quantity": 1,
+          "color": "red",
+          "dob": "2/9/2020",
+          "health": "good",
+          "gender": 1,
+          "price": 10000000
+        },
+        {
+          "id": 5,
+          "name": "Alaska xám mập ú ù",
+          "code": "LO32",
+          "status": 0,
+          "image": "https://matpetfamily.com/wp-content/uploads/2021/12/266791096_467134671708647_943927753662756467_n-300x300.jpg",
+          "quantity": 0,
+          "color": "gray",
+          "dob": "22/3/2021",
+          "health": "good",
+          "gender": 0,
+          "price": 15000000
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Corgi",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Welchcorgipembroke.JPG/1200px-Welchcorgipembroke.JPG",
+      "description": "Giống chó Corgi (hay còn được biết đến với tên gọi khác là Corgi Welsh), là giống chó cảnh dễ thương nhất Thế Giới",
+      "category": [
+        {
+          "id": 1,
+          "name": "Corgi ú nú siêu xinh",
+          "code": "PG34",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2019/12/75462468_1446520615496018_4012590135639015424_n201-370x370.jpg",
+          "quantity": 3,
+          "color": "brown",
+          "dob": "2/10/2022",
+          "health": "good",
+          "gender": 1,
+          "price": 1000000
+        },
+        {
+          "id": 2,
+          "name": "Corgi chân ngắn vàng",
+          "code": "HX32",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2021/12/094EEFE5-32AB-4907-9C6D-A3C5AA7FC495-300x300.jpeg",
+          "quantity": 2,
+          "color": "yellow",
+          "dob": "12/2/2022",
+          "health": "good",
+          "gender": 1,
+          "price": 2500000
+        },
+        {
+          "id": 3,
+          "name": "Corgi lông dài cực cute",
+          "code": "LK32",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2020/06/101906881_1660641044083973_5743404183407829263_o-300x300.jpg",
+          "quantity": 1,
+          "color": "whit",
+          "dob": "2/6/2022",
+          "health": "not good",
+          "gender": 0,
+          "price": 3000000
+        },
+        {
+          "id": 4,
+          "name": "Corgi chân lùn",
+          "code": "KJ23",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2022/08/f7569eb750f695a8cce7-300x300.jpg",
+          "quantity": 3,
+          "color": "brown",
+          "dob": "12/7/2022",
+          "health": "good",
+          "gender": 0,
+          "price": 3500000
+        },
+        {
+          "id": 5,
+          "name": "Corgi lông dài mông to",
+          "code": "LX21",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2020/02/27.2-300x300.jpg",
+          "quantity": 2,
+          "color": "yellow",
+          "dob": "4/2/2022",
+          "health": "normal",
+          "gender": 1,
+          "price": 1800000
+        },
+        {
+          "id": 6,
+          "name": "2 anh em Corgi béo ú ",
+          "code": "PO23",
+          "status": 0,
+          "image": "https://matpetfamily.com/wp-content/uploads/2022/08/8f2fdaaf7155b40bed44-300x300.jpg",
+          "quantity": 0,
+          "color": "yellow",
+          "dob": "11/4/2022",
+          "health": "good",
+          "gender": 0,
+          "price": 5000000
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Husky",
+      "image": "https://media-be.chewy.com/wp-content/uploads/2021/06/01091720/Siberian-Husky_FeaturedImage-1024x615.jpg",
+      "description": "Chó Husky là người bạn đáng tin cậy đối với con người. Giống chó Husky này còn có thể giúp đỡ bạn nhiều công việc, rất tình cảm và trung thành.",
+      "category": [
+        {
+          "id": 1,
+          "name": "Husky đen",
+          "code": "KV23",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2021/02/140575124_1882521691895906_2911909454894282558_o-360x360.jpg",
+          "quantity": 2,
+          "color": "black",
+          "dob": "2/1/2021",
+          "health": "good",
+          "gender": 1,
+          "price": 21000000
+        },
+        {
+          "id": 2,
+          "name": "Husky đại ngáo ú nu",
+          "code": "KV23",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2019/12/72835561_1437995923015154_7605397220103290880_n-370x370.jpg",
+          "quantity": 1,
+          "color": "brown",
+          "dob": "2/10/2021",
+          "health": "good",
+          "gender": 1,
+          "price": 17000000
+        },
+        {
+          "id": 3,
+          "name": "Husky ngáo ngơ",
+          "code": "NM32",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2020/03/5.3c-300x300.jpg",
+          "quantity": 2,
+          "color": "white",
+          "dob": "12/6/2021",
+          "health": "normal",
+          "gender": 0,
+          "price": 14000000
+        },
+        {
+          "id": 4,
+          "name": "Đại ngáo",
+          "code": "KV23",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2021/11/80D68228-C143-46FC-9EDE-0C579B0044CE-300x300.jpeg",
+          "quantity": 1,
+          "color": "grey",
+          "dob": "2/8/2020",
+          "health": "not good",
+          "gender": 1,
+          "price": 11000000
+        },
+        {
+          "id": 5,
+          "name": "Husky nâu đỏ",
+          "code": "HN23",
+          "status": 0,
+          "image": "https://matpetfamily.com/wp-content/uploads/2019/12/husky_nau_do_1_821x624-300x300.jpg",
+          "quantity": 0,
+          "color": "red",
+          "dob": "12/3/2021",
+          "health": "good",
+          "gender": 1,
+          "price": 22000000
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Poodle",
+      "image": "https://miluxinh.com/wp-content/uploads/2020/09/cho-poodle-co-may-loai.jpg",
+      "description": "Poodle là một trong những giống chó được yêu thích và nuôi nhiều tại Việt Nam hiện nay",
+      "category": [
+        {
+          "id": 1,
+          "name": "Bé Poodle Tiny trắng",
+          "code": "CD97",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2019/12/be_poodle_tiny_trang_2_800x610-360x360.jpg",
+          "quantity": 1,
+          "color": "white",
+          "dob": "20/10/2021",
+          "health": "good",
+          "gender": 1,
+          "price": 4000000
+        },
+        {
+          "id": 2,
+          "name": "Bé Poodle vàng mơ xinh tươi",
+          "code": "TR23",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2019/12/53325241_1253249824823099_4624950999151280128_n_720x960-360x360.jpg",
+          "quantity": 1,
+          "color": "yellow",
+          "dob": "7/4/2021",
+          "health": "good",
+          "gender": 0,
+          "price": 3000000
+        },
+        {
+          "id": 3,
+          "name": "Poodle trắng lông xù",
+          "code": "TY32",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2020/09/119211666_1772104086271001_2043173142450946394_o-360x360.jpg",
+          "quantity": 2,
+          "color": "white",
+          "dob": "20/10/2021",
+          "health": "normal",
+          "gender": 1,
+          "price": 6000000
+        },
+        {
+          "id": 4,
+          "name": "2 anh poodle da nâu cực yêu",
+          "code": "MN53",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2019/12/sfdasg_862x960-360x360.jpg",
+          "quantity": 1,
+          "color": "brown",
+          "dob": "20/6/2021",
+          "health": "good",
+          "gender": 1,
+          "price": 10000000
+        },
+        {
+          "id": 5,
+          "name": "Poodle trắng kém yêu yêu",
+          "code": "GA61",
+          "status": 0,
+          "image": "https://matpetfamily.com/wp-content/uploads/2022/10/f899305b892e4f70163f-300x300.jpg",
+          "quantity": 0,
+          "color": "white",
+          "dob": "20/10/2021",
+          "health": "normal",
+          "gender": 0,
+          "price": 4500000
+        },
+        {
+          "id": 6,
+          "name": "Bé Poodle Socola",
+          "code": "DR23",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2019/12/67572102_1353627354785345_3668533529760759808_n-360x360.jpg",
+          "quantity": 1,
+          "color": "brown",
+          "dob": "2/1/2021",
+          "health": "not good",
+          "gender": 0,
+          "price": 2000000
+        }
+      ]
+    }
+  ],
+  "cats": [
+    {
+      "id": 1,
+      "name": "Mèo Anh",
+      "image": "http://cdn.tgdd.vn/Files/2021/04/22/1345443/dac-diem-nhan-dien-cach-nuoi-meo-anh-long-ngan-202104221529108326.jpg",
+      "description": "Mèo Anh lông ngắn (mèo aln) rất được ưa chuộng ở Việt Nam bởi thân hình mập mạp, đáng yêu, tính lười và không kén ăn",
+      "category": [
+        {
+          "id": 1,
+          "name": "Mèo Anh lông ngắn cưng cưng",
+          "code": "MX27",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2022/09/203c63a8733bb765ee2a-300x300.jpg",
+          "quantity": 1,
+          "color": "white",
+          "dob": "19/4/2021",
+          "health": "good",
+          "gender": 0,
+          "price": 5000000
+        },
+        {
+          "id": 2,
+          "name": "Mèo Tabby đáng yêu",
+          "code": "LW73",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2022/09/68e263807bb8bfe6e6a9-300x300.jpg",
+          "quantity": 1,
+          "color": "gray",
+          "dob": "10/6/2021",
+          "health": "good",
+          "gender": 1,
+          "price": 7000000
+        },
+        {
+          "id": 3,
+          "name": "Em mèo Bililac đực",
+          "code": "BB42",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2022/09/769beffce4ea20b479fb-300x300.jpg",
+          "quantity": 1,
+          "color": "brown",
+          "dob": "10/10/2021",
+          "health": "normal",
+          "gender": 1,
+          "price": 100000000
+        },
+        {
+          "id": 4,
+          "name": "Mèo Hymalaya cái",
+          "code": "OT23",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2022/09/0f7ff4d0c5c6019858d7-300x300.jpg",
+          "quantity": 1,
+          "color": "white",
+          "dob": "01/12/2021",
+          "health": "good",
+          "gender": 0,
+          "price": 7000000
+        },
+        {
+          "id": 5,
+          "name": "Mèo Anh lông ngắn",
+          "code": "UT31",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2022/08/dae19cbff56e3030697f-300x300.jpg",
+          "quantity": 1,
+          "color": "black",
+          "dob": "19/10/2020",
+          "health": "good",
+          "gender": 0,
+          "price": 14000000
+        },
+        {
+          "id": 6,
+          "name": "Mèo Bicolor cute",
+          "code": "MB16",
+          "status": 0,
+          "image": "https://matpetfamily.com/wp-content/uploads/2022/07/0c3f2e3eceac0df254bd-300x300.jpg",
+          "quantity": 0,
+          "color": "white",
+          "dob": "10/3/2021",
+          "health": "good",
+          "gender": 1,
+          "price": 15000000
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Mèo chân ngắn",
+      "image": "https://vuipet.com/wp-content/uploads/2021/07/meo-munchkin-4.jpg",
+      "description": "Mèo chân ngắn được biết đến là một giống mèo có 4 chân ngắn ngủn cực kì đáng yêu",
+      "category": [
+        {
+          "id": 1,
+          "name": "Em mèo trắng cực phẩm",
+          "code": "TU41",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2022/09/f1cb3cbc372ef370aa3f-300x300.jpg",
+          "quantity": 2,
+          "color": "white",
+          "dob": "1/1/2021",
+          "health": "good",
+          "gender": 0,
+          "price": 35000000
+        },
+        {
+          "id": 2,
+          "name": "Mèo golden chân ngắn",
+          "code": "IK12",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2022/08/10016876d8a41dfa44b5-300x300.jpg",
+          "quantity": 2,
+          "color": "yellow",
+          "dob": "1/7/2021",
+          "health": "good",
+          "gender": 1,
+          "price": 15000000
+        },
+        {
+          "id": 3,
+          "name": "Mèo chân lùn đáng yêu",
+          "code": "JN23",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2022/08/d4ca892d12b5d0eb89a4-360x360.jpg",
+          "quantity": 3,
+          "color": "grey",
+          "dob": "1/9/2021",
+          "health": "good",
+          "gender": 1,
+          "price": 20000000
+        },
+        {
+          "id": 4,
+          "name": "Em mèo chân trắng tai cụp",
+          "code": "HZ15",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2022/08/d4ca892d12b5d0eb89a4-360x360.jpg",
+          "quantity": 3,
+          "color": "white",
+          "dob": "3/3/2021",
+          "health": "normal",
+          "gender": 0,
+          "price": 1000000
+        },
+        {
+          "id": 5,
+          "name": "Mèo chân ngắn, tai cụp",
+          "code": "LX",
+          "status": 0,
+          "image": "https://matpetfamily.com/wp-content/uploads/2020/12/129815790_1845524822262260_1393144393556835176_o-300x300.jpg",
+          "quantity": 0,
+          "color": "grey",
+          "dob": "12/5/2021",
+          "health": "good",
+          "gender": 1,
+          "price": 14000000
+        },
+        {
+          "id": 6,
+          "name": "Em mèo chân trắng, tai cụt",
+          "code": "LB42",
+          "status": 0,
+          "image": "https://matpetfamily.com/wp-content/uploads/2020/02/c1-300x300.jpg",
+          "quantity": 0,
+          "color": "black",
+          "dob": "10/9/2021",
+          "health": "good",
+          "gender": 0,
+          "price": 30000000
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Mèo tai cụp",
+      "image": "https://wcfvietnam.vn/image/catalog/83841996_634386913982319_8107495278010957824_n-1.jpg",
+      "description": "Mèo tai cụp là loài mèo được lai tạo thông qua đột biến gen từ mèo nhà. Chúng có một đôi tai cụp rất đáng yêu và được ghi nhận là giống mèo cảnh phổ biến nhất",
+      "category": [
+        {
+          "id": 1,
+          "name": "Em mèo tai cụp",
+          "code": "LN41",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2020/06/104561903_1675245245956886_5106103639796273502_o-300x300.jpg",
+          "quantity": 2,
+          "color": "grey",
+          "dob": "10/10/2021",
+          "health": "good",
+          "gender": 0,
+          "price": 5000000
+        },
+        {
+          "id": 2,
+          "name": "Em mèo tai cụp xinh xinh",
+          "code": "IK41",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2020/02/b1-300x300.jpg",
+          "quantity": 2,
+          "color": "grey",
+          "dob": "04/11/2021",
+          "health": "good",
+          "gender": 1,
+          "price": 6000000
+        },
+        {
+          "id": 3,
+          "name": "Mèo scottish silver",
+          "code": "GQ41",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2020/02/78483435_1467114463436633_1463736498133139456_n-300x300.jpg",
+          "quantity": 2,
+          "color": "white",
+          "dob": "9/9/2021",
+          "health": "normal",
+          "gender": 0,
+          "price": 15000000
+        },
+        {
+          "id": 4,
+          "name": "Công chúa mèo tai cụp",
+          "code": "LN41",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2020/02/a2-300x300.jpg",
+          "quantity": 2,
+          "color": "grey",
+          "dob": "1/10/2021",
+          "health": "normal",
+          "gender": 0,
+          "price": 14000000
+        },
+        {
+          "id": 5,
+          "name": "Mèo golden chân ngắn, tai cụp",
+          "code": "GB21",
+          "status": 0,
+          "image": "https://matpetfamily.com/wp-content/uploads/2022/08/10016876d8a41dfa44b5-300x300.jpg",
+          "quantity": 0,
+          "color": "yellow",
+          "dob": "10/2/2021",
+          "health": "good",
+          "gender": 1,
+          "price": 15000000
+        }
+      ]
+    }
+  ],
+  "food": [
+    {
+      "id": 1,
+      "name": "Milk",
+      "image": "https://www.thespruceeats.com/thmb/Dk1kSV4VrhMMydNQ1aahuFcOCho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/potato-milk-5218684-hero-03-9bd26d6a5fd34025b072f6256e039652.jpg",
+      "description": "Sữa tươi là nguồn dinh dưỡng dễ sử dụng hằng ngày giúp cung cấp hiệu quả nguồn năng lượng, chất béo và chất đạm.",
+      "category": [
+        {
+          "id": 1,
+          "name": "Sữa Bio Milk -100g",
+          "code": "ge32",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2021/03/kiotviet_203cfaa6116235ce080d0b4d1c6ae078-300x300.jpeg",
+          "quantity": 2,
+          "price": 50000
+        },
+        {
+          "id": 2,
+          "name": "Sữa Predogen cho cún",
+          "code": "hx16",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2021/03/kiotviet_b1941ca5a225716215bcf1dcfd10ce8c-300x300.jpg",
+          "quantity": 2,
+          "price": 195000
+        },
+        {
+          "id": 3,
+          "name": "Sữa bột cho chó ",
+          "code": "kg98",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2022/08/30bd6666cef40caa55e5-300x300.jpg",
+          "quantity": 2,
+          "price": 240000
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Seed",
+      "image": "https://animalwellnessmagazine.com/wp-content/uploads/seeds-1-e1509542923474.jpg",
+      "description": "Duy trì hệ tiêu hóa khỏe mạnh. Men tiêu hóa L.I.P hỗ trợ hấp thu chất dinh dưỡng cho chó, cân bằng hệ vi sinh đường ruột, giảm bớt lượng phân và mùi nhẹ hơn",
+      "category": [
+        {
+          "id": 1,
+          "name": "Ganador adult 400g",
+          "code": "lk34",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2020/10/kiotviet_b8954919c7bfc7abe0a421075a18e04b-300x300.jpeg",
+          "quantity": 3,
+          "price": 45000
+        },
+        {
+          "id": 2,
+          "name": "Royal cannin baby cat",
+          "code": "gn31",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2022/08/65eba127968254dc0d93-300x300.jpg",
+          "quantity": 10,
+          "price": 125000
+        },
+        {
+          "id": 3,
+          "name": "Smart heart adult",
+          "code": "id52",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2022/08/db81de96270ce552bc1d-300x300.jpg",
+          "quantity": 10,
+          "price": 210000
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Pate",
+      "image": "https://cdn.tgdd.vn/2021/06/CookProduct/pate-la-gi-loi-ich-cua-viec-an-pate-va-nhung-luu-y-khi-su-1-1200x676.jpg",
+      "description": "Ăn pate giúp làm sáng mắt, phòng trừ bệnh khô mắt, mỏi mắt. Ngoài ra, hàm lượng vitamin C phong phú trong pate giúp tăng cường sức miễn dịch cho cơ thể",
+      "category": [
+        {
+          "id": 1,
+          "name": "Pate Ciao - 50g",
+          "code": "fs34",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2020/02/kiotviet_f37f4fc0f042435d9a1d7f682983b7a9-300x300.jpeg",
+          "quantity": 10,
+          "price": 20000
+        },
+        {
+          "id": 2,
+          "name": "Pate Snappy",
+          "code": "lx23",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2020/06/kiotviet_1c3ec5d3a4813b2e9a44d00688244ca5-300x300.jpeg",
+          "quantity": 10,
+          "price": 18000
+        },
+        {
+          "id": 3,
+          "name": "Pate Me-o",
+          "code": "hn43",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2022/08/7e9cbb4c28c5ea9bb3d4-360x360.jpg",
+          "quantity": 10,
+          "price": 15000
+        }
+      ]
+    }
+  ],
+  "supplies": [
+    {
+      "id": 1,
+      "name": "Balo",
+      "image": "https://mihanoi.vn/wp-content/uploads/2021/08/1-29-510x510.png",
+      "description": "Chất liệu túi không thấm nước và dễ làm vệ sinh làm sạch. Dễ dàng tháo gấp gọn lại khi cần.",
+      "category": [
+        {
+          "id": 1,
+          "name": "Balo vải cao cấp",
+          "code": "gd51",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2022/08/1b2ee7557aaebff0e6bf-300x300.jpg",
+          "quantity": 10,
+          "price": 480000
+        },
+        {
+          "id": 2,
+          "name": "Balo mèo xám cute",
+          "code": "kj23",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2022/08/fbbb2d60b19b74c52d8a-300x300.jpg",
+          "quantity": 10,
+          "price": 350000
+        },
+        {
+          "id": 3,
+          "name": "Balo lưới nhựa vuông",
+          "code": "kc34",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2022/08/ce35bcc7203ce562bc2d-300x300.jpg",
+          "quantity": 10,
+          "price": 400000
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Chuồng",
+      "image": "https://www.petmart.vn/wp-content/uploads/2016/04/chuong-meo-2-tang-nan-sat-san-co-dinh-iris-pcsc-902c.jpg",
+      "description": "Chuồng mèo với thiết kế sang trọng có kết cấu chắc chắn đảm bảo an toàn cho thú cưng. Với lớp sơn sắt trắng bóng cao cấp chống gỉ giúp tăng độ bền và dễ dàng khi vệ sinh",
+      "category": [
+        {
+          "id": 1,
+          "name": "Lồng tĩnh điện",
+          "code": "kv23",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2021/03/kiotviet_5ed3017996cf4ab3b83ef383f14461d6-300x300.jpeg",
+          "quantity": 10,
+          "price": 500000
+        },
+        {
+          "id": 2,
+          "name": "Lồng hàng không PD-48",
+          "code": "lv23",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2020/07/kiotviet_b3205dc5eee5fca9f5fa852a530a86ef-300x300.png",
+          "quantity": 10,
+          "price": 320000
+        },
+        {
+          "id": 3,
+          "name": "Nhà cào gỗ",
+          "code": "xt23",
+          "status": 1,
+          "image": "https://matpetfamily.com/wp-content/uploads/2020/07/kiotviet_802da411fd36a49a1fa97478e69dec71-300x300.jpeg",
+          "quantity": 10,
+          "price": 800000
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Dinh1",
+      "lastName": "Sang1",
+      "age": 20,
+      "gender": "male",
+      "address": "Cam yen, Thach That, Ha Noi",
+      "username": "admin",
+      "password": "123"
+    },
+    {
+      "id": "a01235d1-658f-42eb-8cf1-b3e56430551b",
+      "firstName": "Minh",
+      "lastName": "Tu",
+      "age": 10,
+      "gender": "female",
+      "address": "Cam yen, Thach That, Ha Noi",
+      "username": "tu",
+      "password": "1"
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "name": "sang"
+    },
+    {
+      "id": 2,
+      "name": "dep trai"
+    },
+    {
+      "id": "86226a41-9e80-4139-8fae-24affb87810f",
+      "name": "sawe"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Milk",
+    "image": "https://www.thespruceeats.com/thmb/Dk1kSV4VrhMMydNQ1aahuFcOCho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/potato-milk-5218684-hero-03-9bd26d6a5fd34025b072f6256e039652.jpg",
+    "description": "Sữa tươi là nguồn dinh dưỡng dễ sử dụng hằng ngày giúp cung cấp hiệu quả nguồn năng lượng, chất béo và chất đạm.",
+    "category": [
+      {
+        "id": 1,
+        "name": "Sữa Bio Milk -100g",
+        "code": "ge32",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2021/03/kiotviet_203cfaa6116235ce080d0b4d1c6ae078-300x300.jpeg",
+        "quantity": 2,
+        "price": 50000
+      },
+      {
+        "id": 2,
+        "name": "Sữa Predogen cho cún",
+        "code": "hx16",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2021/03/kiotviet_b1941ca5a225716215bcf1dcfd10ce8c-300x300.jpg",
+        "quantity": 2,
+        "price": 195000
+      },
+      {
+        "id": 3,
+        "name": "Sữa bột cho chó ",
+        "code": "kg98",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2022/08/30bd6666cef40caa55e5-300x300.jpg",
+        "quantity": 2,
+        "price": 240000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Seed",
+    "image": "https://animalwellnessmagazine.com/wp-content/uploads/seeds-1-e1509542923474.jpg",
+    "description": "Duy trì hệ tiêu hóa khỏe mạnh. Men tiêu hóa L.I.P hỗ trợ hấp thu chất dinh dưỡng cho chó, cân bằng hệ vi sinh đường ruột, giảm bớt lượng phân và mùi nhẹ hơn",
+    "category": [
+      {
+        "id": 1,
+        "name": "Ganador adult 400g",
+        "code": "lk34",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2020/10/kiotviet_b8954919c7bfc7abe0a421075a18e04b-300x300.jpeg",
+        "quantity": 3,
+        "price": 45000
+      },
+      {
+        "id": 2,
+        "name": "Royal cannin baby cat",
+        "code": "gn31",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2022/08/65eba127968254dc0d93-300x300.jpg",
+        "quantity": 10,
+        "price": 125000
+      },
+      {
+        "id": 3,
+        "name": "Smart heart adult",
+        "code": "id52",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2022/08/db81de96270ce552bc1d-300x300.jpg",
+        "quantity": 10,
+        "price": 210000
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Pate",
+    "image": "https://cdn.tgdd.vn/2021/06/CookProduct/pate-la-gi-loi-ich-cua-viec-an-pate-va-nhung-luu-y-khi-su-1-1200x676.jpg",
+    "description": "Ăn pate giúp làm sáng mắt, phòng trừ bệnh khô mắt, mỏi mắt. Ngoài ra, hàm lượng vitamin C phong phú trong pate giúp tăng cường sức miễn dịch cho cơ thể",
+    "category": [
+      {
+        "id": 1,
+        "name": "Pate Ciao - 50g",
+        "code": "fs34",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2020/02/kiotviet_f37f4fc0f042435d9a1d7f682983b7a9-300x300.jpeg",
+        "quantity": 10,
+        "price": 20000
+      },
+      {
+        "id": 2,
+        "name": "Pate Snappy",
+        "code": "lx23",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2020/06/kiotviet_1c3ec5d3a4813b2e9a44d00688244ca5-300x300.jpeg",
+        "quantity": 10,
+        "price": 18000
+      },
+      {
+        "id": 3,
+        "name": "Pate Me-o",
+        "code": "hn43",
+        "status": 1,
+        "image": "https://matpetfamily.com/wp-content/uploads/2022/08/7e9cbb4c28c5ea9bb3d4-360x360.jpg",
+        "quantity": 10,
+        "price": 15000
+      }
+    ]
+  }
+]

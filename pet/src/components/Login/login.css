@@ -1,0 +1,12 @@
+.login{
+    padding: 20px;
+    border:1px solid #ccc;
+    margin: auto;
+    background-color:aquamarine ;
+}
+.btn_login_father{
+    padding:10px
+}
+.btn_login{
+    margin:0 10px
+}

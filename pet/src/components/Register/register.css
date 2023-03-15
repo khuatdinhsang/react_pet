@@ -1,0 +1,16 @@
+.login{
+    padding: 20px;
+    border:1px solid #ccc;
+    margin: auto;
+    background-color:aquamarine ;
+}
+.btn_register{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+button{
+    padding:5px;
+    margin:0 10px
+}
